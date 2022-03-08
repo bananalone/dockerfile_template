@@ -1,0 +1,1 @@
+docker run -d -p 55000:22 -v /host:/container --name python_app image_name
